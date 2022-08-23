@@ -7,3 +7,5 @@
 `git commit -m "<message text>"` create commit with message
 
 `git push` send local files to GitHub for synchronization
+
+`git restore .` restore dir
